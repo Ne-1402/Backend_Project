@@ -1,0 +1,1 @@
+export const CATEGORIES = ["Campus", "Sports", "Technology", "Culture", "Opinion"];
